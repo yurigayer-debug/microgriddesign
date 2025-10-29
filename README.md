@@ -1,8 +1,3 @@
-# microgriddesign
-% ==================================================================================================
-% SIMULAÇÃO OTIMIZAÇÃO LCOE E AUTONOMIA DE MICRORREDES HÍBRIDAS (ON-GRID / OFF-GRID)
-% ==================================================================================================
-
 
 # Ferramenta de Otimização de Microrredes Híbridas / Hybrid Microgrid Optimization Tool
 
