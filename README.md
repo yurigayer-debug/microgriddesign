@@ -28,9 +28,9 @@ An Octave script for the techno-economic simulation and optimization of hybrid m
 
 Ferramenta de Otimização de Microrredes Híbridas (Octave)
 
-Este repositório contém um script em GNU Octave projetado para a simulação e otimização tecno-econômica de microrredes híbridas, compostas por painéis solares fotovoltaicos (PV), sistemas de armazenamento de energia por baterias (SAE) e geradores a diesel (GMG).
+Este repositório contém um script em GNU Octave projetado para a simulação e otimização tecno-econômica de microrredes híbridas, compostas por gerador solar fotovoltaico (PV), sistemas de armazenamento de energia (SAE) e gerador diesel (GMG).
 
-A ferramenta analisa milhares de configurações de sistema para encontrar as soluções com base no Custo Nivelado da Energia (LCOE), tanto para sistemas conectados à rede (On-Grid) quanto isolados (Off-Grid).
+A ferramenta analisa n configurações de sistemas para encontrar as soluções com base no Custo Nivelado da Energia (LCOE), tanto para sistemas conectados à rede (On-Grid) quanto isolados (Off-Grid).
 
 Principais Funcionalidades
 
