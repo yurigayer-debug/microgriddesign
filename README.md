@@ -2,13 +2,34 @@
 % ==================================================================================================
 % SIMULAÇÃO OTIMIZAÇÃO LCOE E AUTONOMIA DE MICRORREDES HÍBRIDAS (ON-GRID / OFF-GRID)
 % ==================================================================================================
-%
-% Autor: Eng. Eletricista Yuri Escobar Gayer
-% Mestrando: Engenharia Eletrônica e Computação 
-% yurigayer@gmail.com
-% Prof. Orientador: Lizandro de Souza Oliveira 
-% lizandro.oliveira@ucpel.edu.br
-% ==================================================================================================
+
+
+# Ferramenta de Otimização de Microrredes Híbridas / Hybrid Microgrid Optimization Tool
+
+![Language](https://img.shields.io/badge/Language-Octave-blue.svg)
+![Status](https://img.shields.io/badge/Status-Academic%20Project-lightgrey.svg)
+
+---
+
+### 🇧🇷 Português
+
+Um script em Octave para a simulação e otimização tecno-econômica de microrredes híbridas (PV, Baterias, Gerador). O objetivo é encontrar a configuração de menor Custo Nivelado da Energia (LCOE) para operações conectadas à rede (On-Grid) e isoladas (Off-Grid).
+
+* **Autor:** Eng. Yuri Escobar Gayer ([yurigayer@gmail.com](mailto:yurigayer@gmail.com))
+* **Orientador:** Prof. Dr. Lizandro de Souza Oliveira ([lizandro.oliveira@ucpel.edu.br](mailto:lizandro.oliveira@ucpel.edu.br))
+* **Programa:** Mestrado em Engenharia Eletrônica e Computação
+
+---
+
+### 🇬🇧 English
+
+An Octave script for the techno-economic simulation and optimization of hybrid microgrids (PV, Batteries, Genset). The goal is to find the configuration with the lowest Levelized Cost of Energy (LCOE) for both on-grid and off-grid operations.
+
+* **Author:** Yuri Escobar Gayer, Eng. ([yurigayer@gmail.com](mailto:yurigayer@gmail.com))
+* **Advisor:** Prof. Lizandro de Souza Oliveira, PhD ([lizandro.oliveira@ucpel.edu.br](mailto:lizandro.oliveira@ucpel.edu.br))
+* **Program:** Master's in Electronic and Computer Engineering
+
+
 
 Ferramenta de Otimização de Microrredes Híbridas (Octave)
 
