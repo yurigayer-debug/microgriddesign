@@ -17,7 +17,7 @@ Um script em Octave para a simulação e otimização tecno-econômica de micror
 
 * **Autor:** Eng. Yuri Escobar Gayer ([yurigayer@gmail.com](mailto:yurigayer@gmail.com))
 * **Orientador:** Prof. Dr. Lizandro de Souza Oliveira ([lizandro.oliveira@ucpel.edu.br](mailto:lizandro.oliveira@ucpel.edu.br))
-* **Programa:** Mestrado em Engenharia Eletrônica e Computação
+* **Programa:** Mestrado em Engenharia Eletrônica e Computação - https://pos.ucpel.edu.br/ppgeec/
 
 ---
 
