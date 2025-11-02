@@ -3,8 +3,8 @@
 % ==================================================================================================
 %
 % Autor: Eng. Eletricista Yuri Escobar Gayer
-  Mestrando: Engenharia Eletrônica e Computação - yurigayer@gmail.com
-  Prof. Orientador: Lizandro de Souza Oliveira % lizandro.oliveira@ucpel.edu.br
+% Mestrando: Engenharia Eletrônica e Computação - yurigayer@gmail.com
+% Prof. Orientador: Lizandro de Souza Oliveira % lizandro.oliveira@ucpel.edu.br
 % ==================================================================================================
 % SEÇÃO 1: INICIALIZAÇÃO E PARÂMETROS DE ENTRADA
 % ==================================================================================================
@@ -16,7 +16,7 @@ pkg load statistics; % Carrega o pacote de estatísticas.
 
 % --- 1.1: Perfil de Carga (ENTRADAS PRINCIPAIS DA CARGA) ---
 consumo_medio_mensal_kwh = 720; % [kWh/mês] Defina aqui o consumo médio mensal da carga.
-pico_carga_kw_informado =2;  % [kW] Defina aqui o pico de carga esperado (para referência).
+pico_carga_kw_informado =5;  % [kW] Defina aqui o pico de carga esperado (para referência).
 
 % --- 1.2: Parâmetros Financeiros ---
 vida_util_projeto = 25; % [anos]
@@ -28,9 +28,9 @@ tarifa_venda_energia = 0.75;  % [R$/kWh]
 
 % --- 1.4: Parâmetros dos Componentes ---
 custo_pv_por_kw = 3500; custo_om_pv_anual = 500; fator_derating_pv = 0.85; vida_util_pv = 25;
-custo_bateria_por_kwh = 1200; custo_om_bateria_anual = 300; vida_util_bateria_ciclos = 6000;
+custo_bateria_por_kwh = 1100; custo_om_bateria_anual = 200; vida_util_bateria_ciclos = 6000;
 profundidade_max_descarga = 0.80; eficiencia_bateria = 0.90;
-custo_gerador_por_kw = 1300; custo_om_gerador_horario = 2.0; vida_util_gerador_horas = 15000;
+custo_gerador_por_kw = 1700; custo_om_gerador_horario = 2.0; vida_util_gerador_horas = 15000;
 custo_combustivel = 6.5; consumo_curva_A = 0.240; consumo_curva_B = 0.060;
 fator_carga_otima_gerador = 0.80;
 
